@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+#t01 {
+    height: 30px;
+    margin: 0 20px 0 5px;
+    display: inline-block;
+}
+
+th {
+    width: 40px;
+    height: 30px;
+    text-align: left;
+}
+
+#t02 {
+    margin: 0px 0px 0px 10px;
+    display: inline-block;
+}
+
+#rad-legend {
+    text-align: center;
+    margin: auto;
+}
+
+sil {
+    margin: 10px 20px 0 15px;
+    font-size: 17px;
+}
+
+vid {
+    margin: 10px 20px 0 50px;
+    font-size: 17px;
+}
+
+sti {
+    margin: 10px 20px 0 15px;
+    font-size: 17px;
+}
